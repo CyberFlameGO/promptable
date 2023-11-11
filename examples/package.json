@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "^4.2.0",
-    "axios": "^1.2.4",
+    "axios": "^1.6.0",
     "chalk": "^4.1.2",
     "console-table-printer": "^2.11.1",
     "csv-parse": "^5.3.4",
